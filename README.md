@@ -1,2 +1,3 @@
 # Partie_2_Activite
-Exercice qui a pour but de mettre en pratique les notions acquises
+Cet exercice a pour objectif de mettre en pratique les notions que j'ai acquises 
+dans les deux premières parties du cours sur Git et Github.
